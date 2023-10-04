@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Working on getting my masters degree at FESB Split
-- 🌱 Learning emulation of old games as a hobby
+- 📫 Resolving bugs in my projects and adding a few more
 
 
