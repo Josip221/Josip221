@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Working on getting my masters degree at FESB Split
+- 🌱 Learning emulation of old games as a hobby
+
+
