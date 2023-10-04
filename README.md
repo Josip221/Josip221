@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - 🔭 Working on getting my masters degree at FESB Split
 - 📫 Resolving bugs in my projects and adding a few more
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josip221&langs_count=15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
