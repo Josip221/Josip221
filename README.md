@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 Resolving bugs in my projects and adding a few more
 -->
 
-Interests vary from web and embedded programming and devops
+Interests vary from devops to web and embedded programming 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josip221&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
