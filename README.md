@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 Resolving bugs in my projects and adding a few more
 -->
 
-Interests vary from devops to web and embedded programming 
+Started out with web and embedded programming, learning how to become a SysAdmin/DevOps guy
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josip221&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
